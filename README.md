@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emmanuel%20Doji-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-doji/)](https://www.linkedin.com/in/emmanuel-doji/)[![Twitter Badge](https://img.shields.io/badge/-@emmanueldoji-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/emmanueldoji)](https://twitter.com/emmanueldoji)
 
-I'm a Blockchain Developer, and Technical Writer who is currently looking for opportunities within the Ethereum ecosystem. I'm passionate about blockchain development, sharing knowledge, documentation, and problem solving. I create technical content (on my [Blog](https://emmanueldoji.hashnode.dev/), and [Medium](https://medium.com/@dojiemma), checkout my projects here [projects](https://github.com/web3normad) ..
+I'm a Blockchain Developer, and Technical Writer who is currently looking for opportunities within the Ethereum ecosystem. I'm passionate about blockchain development, sharing knowledge, documentation, and problem solving. I create technical content (on my [Blog](https://emmanueldoji.hashnode.dev/), and [Medium](https://medium.com/@dojiemma), checkout my work here [projects](https://github.com/web3normad) .
 
 **Here's a quick summary about me**:
 
